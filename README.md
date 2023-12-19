@@ -15,6 +15,7 @@ Im using boot.dev platform to learning python and also as kata for programing.
 * List, dictonary and Set (Collections)
 * Error handling
 
->> note: so far is good I see similarities with others programing languages.
->> note2: I think the account is worth the money, but I don't recomends this for people with zero experinece in programing.
+> note: so far is good I see similarities with others programing languages.
+---
+> note2: I think the account is worth the money, but I don't recomends this for people with zero experinece in programing.
 
