@@ -13,7 +13,7 @@ Im using boot.dev platform to learning python and also as kata for programing.
 * logic operator
 * for and while loops
 * List, dictonary and Set (Collections)
-* Error handling
+* [Error handling](https://docs.python.org/3/library/exceptions.html)
 
 > note: so far is good I see similarities with others programing languages.
 ---
